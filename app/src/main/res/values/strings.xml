@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SharedPref</string>
+    <string name="checkbox">com.example.sharedpref.checkbox</string>
+    <string name="name">com.example.sharedpref.name</string>
+    <string name="password">com.example.sharedpref.password</string>
+</resources>
